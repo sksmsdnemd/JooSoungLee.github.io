@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "이주성의 개념노트"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "JooSoungLee"
 description              : "An amazing website."
 url                      : "https://JooSoungLee.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
